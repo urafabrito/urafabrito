@@ -3,17 +3,10 @@
 
 🎓 Engenharia | Universidade Federal do Ceará
 
-☁ Quero sair do óbvio, desafiar a lógica do senso comum, impactar o mundo, linha após linha.
-
-🌟 "Nada no mundo consegue tomar o lugar da persistência. O talento não consegue; nada é mais comum que homens fracassados com talento. A genialidade não consegue; gênios não recompensados é quase um clichê. A educação não consegue; o mundo é cheio de errantes educados. A persistência e determinação sozinhas são onipotentes." Calvin Coolidge.
-
 <div style="display: inline_block">
 
 <img align="center" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg">
 
-<img align="center" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg">
-<img align="center" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg">
-<img align="center" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg">
 
 
 
